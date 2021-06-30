@@ -7,7 +7,7 @@ Below will be a list of ideas, potential technologies they can be developed with
 
 
 ## Ideas
-1. Image Post-filtering:
+1.Image Post-filtering:
   * Desc: Apply various filters based on user preference (for instance portrait mode)
   * Input: Image/Photo (format tbc)
   * Output: Filtered Image
