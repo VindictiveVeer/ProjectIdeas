@@ -74,4 +74,3 @@ Below will be a list of ideas including technologies that can used for developme
     - Extension: N/A
     - Complexity: Medium
 
-Adding and removing this to get my name on the commits
