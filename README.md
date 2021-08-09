@@ -73,3 +73,5 @@ Below will be a list of ideas including technologies that can used for developme
     - Technology/Libraries: HTML, CSS, JavaScript, Flask, Django
     - Extension: N/A
     - Complexity: Medium
+
+Adding and removing this to get my name on the commits
